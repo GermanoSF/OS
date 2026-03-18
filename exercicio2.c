@@ -35,19 +35,19 @@ int main(){
 	
 		if (meu_valor == 0){
 		
-			printf("Pai\n");
+			printf("Pai -> id: %i\n",getpid();
 		
 		}
 		
 		if (meu_valor == 1){
 		
-			printf("Filho1\n");
+			printf("Filho1 -> id: %i\n",getpid());
 		
 		}
 		
 		if (meu_valor == 2){
 		
-			printf("Filho2\n");
+			printf("Filho2 -> id: %i\n",getpid());
 		
 		}
 	
