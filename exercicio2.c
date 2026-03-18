@@ -35,7 +35,7 @@ int main(){
 	
 		if (meu_valor == 0){
 		
-			printf("Pai -> id: %i\n",getpid();
+			printf("Pai -> id: %i\n",getpid());
 		
 		}
 		
